@@ -35,7 +35,8 @@ Model performance was evaluated on the test set using clinically relevant metric
 
 The confusion matrix (see figure below) highlights the distribution of True Positives, False Negatives, and other key evaluation components, confirming the model's generalization ability and inherent trade-offs.
 
-> assets/confusion_matrix.png
+> ![Confusion Matrix](../assets/confusion_matrix.png)  
+> <em>Figure 1 — Confusion Matrix of the Logistic Regression Model</em>
 
 ## **4. Ethical and Social Considerations**
 
@@ -55,3 +56,4 @@ To ensure ethical, sustainable deployment:
 ## **5. Conclusion**
 
 This project demonstrates how classical machine learning methods can support **early diabetes risk prediction**, contributing to SDG 3 through scalable and equitable healthcare innovation.
+
